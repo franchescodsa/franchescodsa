@@ -1,5 +1,5 @@
 - 👋 Olá, eu sou @franchescodsa, tenho 23 anos⏳
-- 💻📚 Atual sou estudante de analise e desenvolvimento de sistema, 3º periodo
+- 💻📚 Atualmente sou estudante de analise e desenvolvimento de sistema, 3º periodo
 - Estou focado no Desenvolvimeto Fron-End🚀🔥
 - E estou em buscar do meu primeiro estagio! 👨‍💻
 <div align="center">
