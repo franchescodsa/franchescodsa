@@ -1,7 +1,7 @@
-- 👋 Olá, eu sou @franchescodsa, tenho 23 anos⏳
-- 💻📚 Atualmente sou estudante de analise e desenvolvimento de sistema, 4º periodo
+- 👋 Olá, eu sou @franchescodsa, tenho 26 anos⏳
+- 💻📚 Sou formado em Analise e desenvolvimento de sistemas
 - Estou focado no Desenvolvimeto back-End🚀🔥
-- E estou em buscar do meu primeiro estagio! 👨‍💻
+- E estou em buscar da minha primeira oportunidade Jr.! 👨‍💻
 
 [![Lindekin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franchesco-dos-santos-aprigio-66a566155/)
 
